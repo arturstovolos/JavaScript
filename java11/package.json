@@ -1,0 +1,12 @@
+{
+  "name": "game_ball_js",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nw src/",
+    "prod": "nwbuild --platforms win64 --buildDir dist/ src/"
+  },
+  "devDependencies": {
+    "nw": "^0.75.1",
+    "nw-builder": "^4.2.3"
+  }
+}

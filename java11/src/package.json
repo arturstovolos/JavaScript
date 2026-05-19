@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "main": "views/main.html",
+  "window": {
+    "title": "Game",
+    "width": 700,
+    "height": 700,
+    "toolbar": true
+  }
+}
